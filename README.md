@@ -5,6 +5,8 @@ This repository is for laboratory assignments for the "Domain-Specific Languages
 ## Contents
 
 - `Lab_1.ipynb`: Lab №1.
+- `Lab_2.ipynb`: Lab №2.
+
 
 ## About the Course
 
