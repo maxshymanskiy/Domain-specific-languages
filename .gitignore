@@ -78,3 +78,6 @@ db.sqlite3-journal
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Virtual documents
+.virtual_documents/
