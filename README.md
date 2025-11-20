@@ -7,8 +7,8 @@ This repository is for laboratory assignments for the "Domain-Specific Languages
 - `Lab_1.ipynb`: Lab №1.
 - `Lab_2.ipynb`: Lab №2.
 - `Lab_3.ipynb`: Lab №3.
-- `Lab_3.ipynb`: Lab №4.
-
+- `Lab_4.ipynb`: Lab №4.
+- `Lab_5.ipynb`: Lab №5.
 
 ## About the Course
 
@@ -31,6 +31,9 @@ To run the labs, install the following packages:
 	conda create -n python_env
 	conda activate python_env
 	```
+   ```bash
+   source C:/ProgramData/miniforge3/Scripts/activate python_env
+   ```
 3. Install the required packages:
 	```sh
 	conda install pandas jupyter
